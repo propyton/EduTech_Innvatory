@@ -19,6 +19,8 @@
     <module>microserviceGateway</module>
     <module>microserviceEureka</module>
     <module>microserviceConfigServer</module>
+    <module>microserviceAuth</module>
+
   </modules>
 
   <properties>
