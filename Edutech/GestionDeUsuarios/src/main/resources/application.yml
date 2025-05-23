@@ -17,7 +17,7 @@ spring:
     hibernate:
       ddl-auto: create
       database: mysql
-      database-plataform: org.hibernate.dialect.MYSQLDialect
+      database-plataform: org.hibernate.dialect.MYSQL8Dialect
 
 eureka:
   instance:
